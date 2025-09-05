@@ -1,1 +1,1 @@
-# PING-PONG-PYTHON
+# PING-PONG-JavaScript
