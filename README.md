@@ -1,1 +1,1 @@
-# PING-PONG-JavaScript
+# PING-PONG|JavaScript
